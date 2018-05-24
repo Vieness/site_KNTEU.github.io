@@ -18,8 +18,7 @@ div, p, section, footer, header, aside {
 
 .wrap {
   max-width: $mainContainer;
-  padding-left: $containerHorIndent;
-  padding-right: $containerHorIndent;
+
   margin: 0 auto;
 
   @media (max-width: $screen-md){
